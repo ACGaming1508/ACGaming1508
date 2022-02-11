@@ -5,7 +5,7 @@
 - 14 years old
 - I code discord bots mainly using JavaScript packages
 - Portfolio: [https://acgaming1508.me](https://replit.com/@acgaming1508/portfolio)
-- Contact me: [discord](https://discord.com/users/878556236797341786)
+- Contact me: [Discord](https://discord.com/users/878556236797341786)
 
 ![Discord Card](https://discord.c99.nl/widget/theme-2/878556236797341786.png)
 

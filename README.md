@@ -1,6 +1,6 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=%232576F7&size=22&height=30&lines=Developer;Student;ACGaming)](https://github.com/ACGaming1508)
 
-## ABout Me
+## About Me
 
 - 14 years old
 - I code discord bots mainly using JavaScript packages

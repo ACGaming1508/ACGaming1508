@@ -2,10 +2,36 @@
 
 ## About Me
 
-- 14 years old
-- I code discord bots mainly using JavaScript packages
-- Portfolio: [https://acgaming1508.me](https://acgaming.netlify.app)
-- Contact me through: [Discord](https://discord.com/users/878556236797341786)〡[Facebook](https://www.facebook.com/people/AC-Gaming/100050828506647/)〡[Reddit](https://www.reddit.com/user/ACGaming1508)
+```ts
+class ACGaming {
+	usernames: Record<string, string>;
+	favouriteLanguages: string[];
+	repositories: Record<string, number>;
+	contributions: number;
+	location: string;
+	website: string;
+	areasOfKnowledge: string[];
+	constructor() {
+		this.usernames = {
+			Discord: 'ACGaming', /* discriminator: #1508 */
+			Github: 'ACGaming1508',
+			StackOverflow: 'ACGaming',
+			Facebook: 'AC Gaming',
+		};
+		this.areasOfKnowledge = ['Logo', 'Scratch', 'Git', 'MongoDB', 'C', 'C++', 'CSS', 'HTML', 'Java', 'JavaScript', 'TypeScript', 'Node.js'];
+		this.favouriteLanguages = ['TypeScript', 'JavaScript'];
+		this.repositories = {
+			total: 7,
+			public: 3,
+			private: 4,
+			contributed: 3,
+		};
+		this.contributions = 227;
+		this.location = 'Viet Nam';
+		this.website = 'acgaming.netlify.app';
+	}
+}
+```
 
 ![Discord Card](https://discord.c99.nl/widget/theme-2/878556236797341786.png)
 

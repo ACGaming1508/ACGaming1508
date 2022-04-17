@@ -21,9 +21,9 @@ class ACGaming {
 		this.areasOfKnowledge = ['Logo', 'Scratch', 'Git', 'MongoDB', 'C', 'C++', 'CSS', 'HTML', 'Java', 'JavaScript', 'TypeScript', 'Node.js'];
 		this.favouriteLanguages = ['TypeScript', 'JavaScript'];
 		this.repositories = {
-			total: 7,
+			total: 9,
 			public: 3,
-			private: 4,
+			private: 6,
 			contributed: 3,
 		};
 		this.contributions = 227;

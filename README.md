@@ -4,14 +4,14 @@
 
 ```ts
 class ACGaming {
-	usernames: Record<string, string>;
-	favouriteLanguages: string[];
-	repositories: Record<string, number>;
-	contributions: number;
-	location: string;
-	website: string;
-	areasOfKnowledge: string[];
-	constructor() {
+	public usernames: Record<string, string>;
+	public favouriteLanguages: string[];
+	public repositories: Record<string, number>;
+	public contributions: number;
+	public location: string;
+	public website: string;
+	public areasOfKnowledge: string[];
+	public constructor() {
 		this.usernames = {
 			Discord: 'ACGaming', /* discriminator: #1508 */
 			Github: 'ACGaming1508',

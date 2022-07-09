@@ -21,12 +21,12 @@ class ACGaming {
 		this.areasOfKnowledge = ['Logo', 'Scratch', 'Git', 'MongoDB', 'C', 'C++', 'CSS', 'HTML', 'Java', 'JavaScript', 'TypeScript', 'Node.js'];
 		this.favouriteLanguages = ['TypeScript', 'JavaScript'];
 		this.repositories = {
-			total: 9,
-			public: 3,
+			total: 10,
+			public: 4,
 			private: 6,
 			contributed: 3,
 		};
-		this.contributions = 227;
+		this.contributions = 251;
 		this.location = 'Viet Nam';
 		this.website = 'acgaming.netlify.app';
 	}
@@ -45,5 +45,5 @@ class ACGaming {
   
   [![AC's GitHub stats](https://github-readme-stats.vercel.app/api?username=acgaming1508&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/ACGaming1508?tab=repositories)
   
-  [![Nin's Stats #2](https://github-readme-stats.vercel.app/api/top-langs/?username=acgaming1508&count_private=true&layout=compact&theme=midnight-purple)](https://github.com/ACGaming1508?tab=repositories)
+  [![AC's Stats #2](https://github-readme-stats.vercel.app/api/top-langs/?username=acgaming1508&count_private=true&layout=compact&theme=midnight-purple)](https://github.com/ACGaming1508?tab=repositories)
 </div>

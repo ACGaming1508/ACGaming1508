@@ -1,6 +1,6 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=%232576F7&size=22&height=30&lines=Developer;Student;ACGaming)](https://github.com/ACGaming1508)
+<h2 align="center">About me</h2>
 
-## About Me
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=%232576F7&size=22&height=30&lines=Developer;Student;ACGaming)](https://github.com/ACGaming1508)
 
 ```ts
 class ACGaming {
@@ -18,32 +18,30 @@ class ACGaming {
 			StackOverflow: 'ACGaming',
 			Facebook: 'AC Gaming',
 		};
-		this.areasOfKnowledge = ['Logo', 'Scratch', 'Git', 'MongoDB', 'C', 'C++', 'CSS', 'HTML', 'Java', 'JavaScript', 'TypeScript', 'Node.js'];
+		this.areasOfKnowledge = ['Git', 'MongoDB', 'C', 'C++', 'HTML', 'CSS', 'Java', 'JavaScript', 'TypeScript', 'Node.js'];
 		this.favouriteLanguages = ['TypeScript', 'JavaScript'];
 		this.repositories = {
 			total: 10,
 			public: 4,
 			private: 6,
-			contributed: 3,
+			contributed: 9,
 		};
-		this.contributions = 251;
+		this.contributions = 253;
 		this.location = 'Viet Nam';
 		this.website = 'acgaming.netlify.app';
 	}
 }
 ```
+<h2 align="center">Social</h2>
 
 ![Discord Card](https://discord.c99.nl/widget/theme-2/878556236797341786.png)
-
-<br>
-
-<br>
 
 <h2 align="center">Statistics</h2>
 
 <div align="center">
   
-  [![AC's GitHub stats](https://github-readme-stats.vercel.app/api?username=acgaming1508&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/ACGaming1508?tab=repositories)
+  [![Stats](https://github-readme-stats.vercel.app/api?username=acgaming1508&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/ACGaming1508?tab=repositories)
   
-  [![AC's Stats #2](https://github-readme-stats.vercel.app/api/top-langs/?username=acgaming1508&count_private=true&layout=compact&theme=midnight-purple)](https://github.com/ACGaming1508?tab=repositories)
+  ![Metrics](https://metrics.lecoq.io/ACGaming1508?template=classic&isocalendar=1&languages=1&achievements=1&base.indepth=false&base.hireable=false&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FBangkok)
+  
 </div>

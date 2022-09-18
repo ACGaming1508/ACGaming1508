@@ -28,7 +28,7 @@ class ACGaming {
 		};
 		this.contributions = 271;
 		this.nation = 'Viet Nam';
-		this.website = 'acgaming.netlify.app';
+		this.website = 'acgaming.is-a.dev';
 	}
 }
 ```

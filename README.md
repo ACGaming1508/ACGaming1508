@@ -21,13 +21,13 @@ class ACGaming {
 		this.areasOfKnowledge = ['Git', 'MongoDB', 'C', 'C++', 'HTML', 'CSS', 'Java', 'JavaScript', 'TypeScript', 'Node.js'];
 		this.favouriteLanguages = ['TypeScript', 'JavaScript'];
 		this.repositories = {
-			total: 10,
-			public: 4,
+			total: 11,
+			public: 5,
 			private: 6,
-			contributed: 9,
+			contributed: 10,
 		};
-		this.contributions = 253;
-		this.location = 'Viet Nam';
+		this.contributions = 271;
+		this.nation = 'Viet Nam';
 		this.website = 'acgaming.netlify.app';
 	}
 }
